@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.example"
+        id        = "com.phonegap.Medi-Friend"
         versionCode="10" 
-        version   = "1.0.0">
+        version   = "1.1.0">
 
     <!-- versionCode is optional and Android only -->
 
-    <name>PhoneGap Example</name>
+    <name>Medi-Friend</name>
 
     <description>
-        An example for phonegap build docs. 
+        An android app which provides a medium medium between blood donors and acceptors. 
     </description>
 
     <author href="https://build.phonegap.com" email="support@phonegap.com">
-        Hardeep Shoker 
+        Team AUTOMATONS-IIC 
     </author>
 
 </widget>
